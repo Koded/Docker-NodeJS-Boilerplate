@@ -1,0 +1,24 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "A simple sample that starts a Node.js container with a mounted volume.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dockerode": "^2.2.2",
+    "es6-promise": "^2.3.0",
+    "extend": "^3.0.0",
+    "flightplan": "^0.6.4",
+    "fstream": "^1.0.7",
+    "grunt": "^0.4.5",
+    "load-grunt-config": "^0.17.2",
+    "load-grunt-tasks": "^3.2.0",
+    "lodash": "^3.10.0",
+    "tar": "^2.1.1",
+    "tar-fs": "^1.7.0"
+  }
+}
